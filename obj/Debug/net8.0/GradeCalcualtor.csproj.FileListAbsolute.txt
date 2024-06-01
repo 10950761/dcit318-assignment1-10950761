@@ -1,0 +1,14 @@
+/home/godfred/Documents/DCIT 318/Assignment1/GradeCalcualtor/obj/Debug/net8.0/GradeCalcualtor.GeneratedMSBuildEditorConfig.editorconfig
+/home/godfred/Documents/DCIT 318/Assignment1/GradeCalcualtor/obj/Debug/net8.0/GradeCalcualtor.AssemblyInfoInputs.cache
+/home/godfred/Documents/DCIT 318/Assignment1/GradeCalcualtor/obj/Debug/net8.0/GradeCalcualtor.AssemblyInfo.cs
+/home/godfred/Documents/DCIT 318/Assignment1/GradeCalcualtor/obj/Debug/net8.0/GradeCalcualtor.csproj.CoreCompileInputs.cache
+/home/godfred/Documents/DCIT 318/Assignment1/GradeCalcualtor/bin/Debug/net8.0/GradeCalcualtor
+/home/godfred/Documents/DCIT 318/Assignment1/GradeCalcualtor/bin/Debug/net8.0/GradeCalcualtor.deps.json
+/home/godfred/Documents/DCIT 318/Assignment1/GradeCalcualtor/bin/Debug/net8.0/GradeCalcualtor.runtimeconfig.json
+/home/godfred/Documents/DCIT 318/Assignment1/GradeCalcualtor/bin/Debug/net8.0/GradeCalcualtor.dll
+/home/godfred/Documents/DCIT 318/Assignment1/GradeCalcualtor/bin/Debug/net8.0/GradeCalcualtor.pdb
+/home/godfred/Documents/DCIT 318/Assignment1/GradeCalcualtor/obj/Debug/net8.0/GradeCalcualtor.dll
+/home/godfred/Documents/DCIT 318/Assignment1/GradeCalcualtor/obj/Debug/net8.0/refint/GradeCalcualtor.dll
+/home/godfred/Documents/DCIT 318/Assignment1/GradeCalcualtor/obj/Debug/net8.0/GradeCalcualtor.pdb
+/home/godfred/Documents/DCIT 318/Assignment1/GradeCalcualtor/obj/Debug/net8.0/GradeCalcualtor.genruntimeconfig.cache
+/home/godfred/Documents/DCIT 318/Assignment1/GradeCalcualtor/obj/Debug/net8.0/ref/GradeCalcualtor.dll
