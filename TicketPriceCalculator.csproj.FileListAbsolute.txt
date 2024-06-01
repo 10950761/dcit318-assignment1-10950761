@@ -1,0 +1,14 @@
+/home/godfred/Documents/DCIT 318/Assignment1/TicketPriceCalculator/bin/Debug/net8.0/TicketPriceCalculator
+/home/godfred/Documents/DCIT 318/Assignment1/TicketPriceCalculator/bin/Debug/net8.0/TicketPriceCalculator.deps.json
+/home/godfred/Documents/DCIT 318/Assignment1/TicketPriceCalculator/bin/Debug/net8.0/TicketPriceCalculator.runtimeconfig.json
+/home/godfred/Documents/DCIT 318/Assignment1/TicketPriceCalculator/bin/Debug/net8.0/TicketPriceCalculator.dll
+/home/godfred/Documents/DCIT 318/Assignment1/TicketPriceCalculator/bin/Debug/net8.0/TicketPriceCalculator.pdb
+/home/godfred/Documents/DCIT 318/Assignment1/TicketPriceCalculator/obj/Debug/net8.0/TicketPriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/godfred/Documents/DCIT 318/Assignment1/TicketPriceCalculator/obj/Debug/net8.0/TicketPriceCalculator.AssemblyInfoInputs.cache
+/home/godfred/Documents/DCIT 318/Assignment1/TicketPriceCalculator/obj/Debug/net8.0/TicketPriceCalculator.AssemblyInfo.cs
+/home/godfred/Documents/DCIT 318/Assignment1/TicketPriceCalculator/obj/Debug/net8.0/TicketPriceCalculator.csproj.CoreCompileInputs.cache
+/home/godfred/Documents/DCIT 318/Assignment1/TicketPriceCalculator/obj/Debug/net8.0/TicketPriceCalculator.dll
+/home/godfred/Documents/DCIT 318/Assignment1/TicketPriceCalculator/obj/Debug/net8.0/refint/TicketPriceCalculator.dll
+/home/godfred/Documents/DCIT 318/Assignment1/TicketPriceCalculator/obj/Debug/net8.0/TicketPriceCalculator.pdb
+/home/godfred/Documents/DCIT 318/Assignment1/TicketPriceCalculator/obj/Debug/net8.0/TicketPriceCalculator.genruntimeconfig.cache
+/home/godfred/Documents/DCIT 318/Assignment1/TicketPriceCalculator/obj/Debug/net8.0/ref/TicketPriceCalculator.dll
