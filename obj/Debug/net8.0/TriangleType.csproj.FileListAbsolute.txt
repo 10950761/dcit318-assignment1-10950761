@@ -1,0 +1,14 @@
+/home/godfred/Documents/DCIT 318/Assignment1/TriangleType/bin/Debug/net8.0/TriangleType
+/home/godfred/Documents/DCIT 318/Assignment1/TriangleType/bin/Debug/net8.0/TriangleType.deps.json
+/home/godfred/Documents/DCIT 318/Assignment1/TriangleType/bin/Debug/net8.0/TriangleType.runtimeconfig.json
+/home/godfred/Documents/DCIT 318/Assignment1/TriangleType/bin/Debug/net8.0/TriangleType.dll
+/home/godfred/Documents/DCIT 318/Assignment1/TriangleType/bin/Debug/net8.0/TriangleType.pdb
+/home/godfred/Documents/DCIT 318/Assignment1/TriangleType/obj/Debug/net8.0/TriangleType.GeneratedMSBuildEditorConfig.editorconfig
+/home/godfred/Documents/DCIT 318/Assignment1/TriangleType/obj/Debug/net8.0/TriangleType.AssemblyInfoInputs.cache
+/home/godfred/Documents/DCIT 318/Assignment1/TriangleType/obj/Debug/net8.0/TriangleType.AssemblyInfo.cs
+/home/godfred/Documents/DCIT 318/Assignment1/TriangleType/obj/Debug/net8.0/TriangleType.csproj.CoreCompileInputs.cache
+/home/godfred/Documents/DCIT 318/Assignment1/TriangleType/obj/Debug/net8.0/TriangleType.dll
+/home/godfred/Documents/DCIT 318/Assignment1/TriangleType/obj/Debug/net8.0/refint/TriangleType.dll
+/home/godfred/Documents/DCIT 318/Assignment1/TriangleType/obj/Debug/net8.0/TriangleType.pdb
+/home/godfred/Documents/DCIT 318/Assignment1/TriangleType/obj/Debug/net8.0/TriangleType.genruntimeconfig.cache
+/home/godfred/Documents/DCIT 318/Assignment1/TriangleType/obj/Debug/net8.0/ref/TriangleType.dll
